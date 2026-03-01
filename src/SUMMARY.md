@@ -85,3 +85,10 @@ Mapping
     - [Library](mapping/guidelines/service/library.md)
     - [Reporter](mapping/guidelines/service/reporter.md)
     - [Theater](mapping/guidelines/service/theater.md)
+
+Proposals
+================
+
+----------------------
+
+- [Antagonists]()
