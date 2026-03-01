@@ -92,3 +92,4 @@ Proposals
 ----------------------
 
 - [Antagonists]()
+  - [Vampire](proposals/antagonists/vampire.md)
